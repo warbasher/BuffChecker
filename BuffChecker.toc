@@ -1,0 +1,13 @@
+## Title: |cff9900ffBuff Checker|r
+## Interface: 20501
+## Author: Warbasher
+## Version: 1.0
+## Notes: Displays reminders about buffs, gear, and consumables within instances.
+## SavedVariables: BuffCheckerMenu
+## SavedVariablesPerCharacter: BuffCheckerMenu
+
+BuffChecker.lua
+BuffChecker_Gear.lua
+BuffChecker_Low.lua
+BuffChecker_Func.lua
+BuffChecker_Menu.lua
